@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Movie-verse/static/css/main.334bdeb1.css",
+    "main.js": "/Movie-verse/static/js/main.870cda2c.js",
+    "index.html": "/Movie-verse/index.html",
+    "static/media/search.svg": "/Movie-verse/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/Movie-verse/static/css/main.334bdeb1.css.map",
+    "main.870cda2c.js.map": "/Movie-verse/static/js/main.870cda2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.870cda2c.js"
+  ]
+}
